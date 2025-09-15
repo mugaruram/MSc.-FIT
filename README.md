@@ -9,8 +9,12 @@ Performance Metrics
 
 Random Forest Model Summary for NDVI Prediction
 Feature Importance:
-     Feature  Importance
-0      LST_C    0.369424
-1       TVDI    0.333949
-2    Temp_0C    0.167816
-3  Precip_cm    0.128811
+
+     Feature  Importance    
+0       LST_C     -   0.369424
+
+1       TVDI     -    0.333949
+
+2       Temp_0C   -   0.167816
+
+3       Precip_cm  -  0.128811
