@@ -95,7 +95,7 @@ Google Earth Engine, scikit-learn, pyGAM, PySAL, Matplotlib, Seaborn, and the ge
 
 📬 Contact
 
-Email: michael.mmu962@hnee.de , mugarura.michael@gmail.com
+Email: mmu962@hnee.de , mugarura.michael@gmail.com
 
 GitHub: https://github.com/mugaruram/
 
