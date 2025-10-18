@@ -1,6 +1,6 @@
 # 🌍 Integrated Remote Sensing and Climate–Hydrology Modelling for Vegetation Trend Analysis in Tigrovaya Balka State Nature Reserve
 
-**Author:** [Michael Mugarura](https://github.com/your-GitHub-username)  
+**Author:** [Michael Mugarura](https://github.com/mugaruram/)  
 **Affiliation:** Eberswalde University for Sustainable Development (HNEE), Faculty of Forest and Environment  
 **Degree:** Master of Science (Forest Information Technology)  
 **Year:** 2025  
@@ -95,7 +95,7 @@ Google Earth Engine, scikit-learn, pyGAM, PySAL, Matplotlib, Seaborn, and the ge
 
 📬 Contact
 
-Email: michael.mugarura@…
+Email: michael.mmu962@hnee.de , mugarura.michael@gmail.com
 
 GitHub: https://github.com/mugaruram/
 
