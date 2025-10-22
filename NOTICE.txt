@@ -1,0 +1,96 @@
+NOTICE
+======
+
+Project Title
+-------------
+Integrated Remote Sensing and Climate–Hydrology Modelling for Vegetation Trend Analysis
+in Tigrovaya Balka State Nature Reserve (TBSNR)
+
+Author & Copyright
+------------------
+© 2025 Michael Mugarura  
+Master of Science (Forest Information Technology)  
+Eberswalde University for Sustainable Development (HNEE), Germany
+
+Purpose
+-------
+This repository contains the analytical and modelling code used in the MSc thesis:
+
+    Mugarura, M. (2025). Integrated Remote Sensing and Climate–Hydrology Modelling
+    for Vegetation Trend Analysis in Tigrovaya Balka State Nature Reserve.
+    MSc Thesis, Eberswalde University for Sustainable Development (HNEE), Germany.
+
+All original source code, documentation, and structure are released under the
+MIT License (see LICENSE).  This NOTICE file provides required acknowledgements
+and third-party license information for code or examples adapted from other
+open-source projects.
+
+Third-Party Notices and Attributions
+------------------------------------
+The following libraries, tools, and examples were referenced or adapted for this work.
+Each retains its original license and attribution:
+
+• **Google Earth Engine (GEE)** — Public Domain / USGS  
+  Examples and documentation for Landsat L2 scaling, QA_PIXEL/CFMask masking, and image
+  compositing methods (Foga et al., 2017).
+
+• **gee-ccdc-tools** — © Eric L. Bullock, Boston University  
+  Apache License 2.0  
+  Used for Continuous Change Detection and Classification (CCDC) framework integration.  
+  https://github.com/parevalo-bu/gee-ccdc-tools
+
+• **scikit-learn** — BSD 3-Clause License  
+  Used for Random Forest (RF) and Multiple Linear Regression (MLR) model structure.  
+  © The scikit-learn developers (https://scikit-learn.org)
+
+• **pyGAM** — MIT License  
+  Used for Generalized Additive Model (GAM) fitting and partial dependence plotting.  
+  © Daniel Servén & Will Cukierski
+
+• **PyKrige** — BSD-style License  
+  Used for Ordinary Kriging interpolation of climatic variables.  
+  © Benjamin Murphy & PyKrige Contributors (https://github.com/bsmurphy/PyKrige)
+
+• **PySAL / esda / libpysal** — BSD 3-Clause License  
+  Used for spatial autocorrelation and hotspot analysis (Moran’s I, Getis-Ord Gi*).  
+  © PySAL Developers (https://pysal.org)
+
+• **SciPy** — BSD 3-Clause License  
+  Used for Theil–Sen slope estimation and statistical utilities.  
+  © Enthought, Inc. and SciPy Developers
+
+• **pymannkendall** — MIT License  
+  Used for Mann–Kendall trend testing.  
+  © Hamed Taheri Tizro, 2018–2025
+
+• **Matplotlib / Seaborn** — PSF & BSD 3-Clause Licenses  
+  Used for data visualization.  
+  © Matplotlib & Seaborn Developers
+
+• **R Libraries:**  
+  – caret (GPL-2/GPL-3) – Accuracy assessment and confusion matrices  
+  – raster / terra (GPL-3) – Spatial data manipulation  
+  – sf (MIT) – Vector data operations  
+
+Reference and Citation
+----------------------
+If you use this repository or any part of its code or methodology, please cite:
+
+    Mugarura, M. (2025). Integrated Remote Sensing and Climate–Hydrology Modelling
+    for Vegetation Trend Analysis in Tigrovaya Balka State Nature Reserve.
+    MSc Thesis, Eberswalde University for Sustainable Development (HNEE), Germany.
+
+and include the following acknowledgement where appropriate:
+
+    "Code components adapted from the TBSNR Vegetation Modelling repository
+    (Mugarura, 2025) and referenced open-source projects as listed in NOTICE.txt."
+
+License Summary
+---------------
+All original code authored by Michael Mugarura is released under the MIT License.
+Third-party components retain their respective licenses as noted above. Users are
+responsible for ensuring compliance with these licenses in derivative works.
+
+Revision History
+----------------
+Version 1.0.0 — October 2025 — Initial public release on GitHub.
